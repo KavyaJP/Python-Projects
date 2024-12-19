@@ -1,0 +1,732 @@
+[
+    {
+        "Sr.no":1,
+        "ID No.":"23AIML001",
+        "Name":"JASH",
+        "1st Sem SGPA":9.06,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.27,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.08
+    },
+    {
+        "Sr.no":2,
+        "ID No.":"23AIML002",
+        "Name":"AHIR JAIMI MUKESHBHAI",
+        "1st Sem SGPA":8.56,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.09,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.3
+    },
+    {
+        "Sr.no":3,
+        "ID No.":"23AIML003",
+        "Name":"ANSHU BHATT",
+        "1st Sem SGPA":9.44,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.45,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.9
+    },
+    {
+        "Sr.no":4,
+        "ID No.":"23AIML005",
+        "Name":"BHANDARI BANSARI SHAILESHBHAI",
+        "1st Sem SGPA":8.72,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.95,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.3
+    },
+    {
+        "Sr.no":5,
+        "ID No.":"23AIML006",
+        "Name":"BOGHARA ROMIL BHARATBHAI",
+        "1st Sem SGPA":8.78,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.82,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.8
+    },
+    {
+        "Sr.no":6,
+        "ID No.":"23AIML007",
+        "Name":"PRADEEP CHANDRAVADIYA",
+        "1st Sem SGPA":7.89,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.5,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.68
+    },
+    {
+        "Sr.no":7,
+        "ID No.":"23AIML008",
+        "Name":"CHAUHAN MAYANK HITESHBHAI",
+        "1st Sem SGPA":8.33,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.05,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.18
+    },
+    {
+        "Sr.no":8,
+        "ID No.":"23AIML009",
+        "Name":"CHODVADIYA KRISHNA RAJESHKUMAR",
+        "1st Sem SGPA":9.33,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.91,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":9.1
+    },
+    {
+        "Sr.no":9,
+        "ID No.":"23AIML010",
+        "Name":"CHOKSI OM CHIRAGBHAI",
+        "1st Sem SGPA":8.94,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.05,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.45
+    },
+    {
+        "Sr.no":10,
+        "ID No.":"23AIML011",
+        "Name":"DANGARIYA DARSHKUMAR VINODBHAI",
+        "1st Sem SGPA":9.39,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.09,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.13
+    },
+    {
+        "Sr.no":11,
+        "ID No.":"23AIML012",
+        "Name":"DAVDA YASH ASHOKBHAI",
+        "1st Sem SGPA":9.22,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":9.09,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":9.15
+    },
+    {
+        "Sr.no":12,
+        "ID No.":"23AIML013",
+        "Name":"DEVANI PARTH ASHVINBHAI",
+        "1st Sem SGPA":8.0,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.09,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.5
+    },
+    {
+        "Sr.no":13,
+        "ID No.":"23AIML014",
+        "Name":"DHANDHUKIYA DEVANGBHAI PRAGJIBHAI",
+        "1st Sem SGPA":9.28,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.5,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.85
+    },
+    {
+        "Sr.no":14,
+        "ID No.":"23AIML015",
+        "Name":"DOBARIYA YUGKUMAR ARVINDBHAI",
+        "1st Sem SGPA":9.22,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.45,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.8
+    },
+    {
+        "Sr.no":15,
+        "ID No.":"23AIML016",
+        "Name":"DONGA KHUSHIBEN VIJAYBHAI",
+        "1st Sem SGPA":7.94,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":6.27,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.03
+    },
+    {
+        "Sr.no":16,
+        "ID No.":"23AIML017",
+        "Name":"DONGA YASH RAMESHBHAI",
+        "1st Sem SGPA":7.38,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.32,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.35
+    },
+    {
+        "Sr.no":17,
+        "ID No.":"23AIML018",
+        "Name":"DOSHI AAGAM NIKHIL",
+        "1st Sem SGPA":6.78,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":6.41,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":6.58
+    },
+    {
+        "Sr.no":18,
+        "ID No.":"23AIML019",
+        "Name":"GAJERA ANSH ALPESHBHAI",
+        "1st Sem SGPA":7.17,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.23,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.2
+    },
+    {
+        "Sr.no":19,
+        "ID No.":"23AIML020",
+        "Name":"GAJERA BHARGAV ASHOK",
+        "1st Sem SGPA":6.78,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":6.64,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":6.7
+    },
+    {
+        "Sr.no":20,
+        "ID No.":"23AIML021",
+        "Name":"GOLAKIYA KENIL VIPULBHAI",
+        "1st Sem SGPA":9.28,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.27,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.73
+    },
+    {
+        "Sr.no":21,
+        "ID No.":"23AIML022",
+        "Name":"ISOTIYA DHAIRYA MUKESHBHAI",
+        "1st Sem SGPA":8.67,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.86,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.78
+    },
+    {
+        "Sr.no":22,
+        "ID No.":"23AIML023",
+        "Name":"KABARIYA PRIT DIVYESHBHAI",
+        "1st Sem SGPA":8.33,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.05,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.18
+    },
+    {
+        "Sr.no":23,
+        "ID No.":"23AIML024",
+        "Name":"KAKADIYA DEEPKUMAR HARESHBHAI",
+        "1st Sem SGPA":9.0,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.05,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.48
+    },
+    {
+        "Sr.no":24,
+        "ID No.":"23AIML025",
+        "Name":"KAKADIYA HARSH PANKAJBHAI",
+        "1st Sem SGPA":9.17,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.91,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.48
+    },
+    {
+        "Sr.no":25,
+        "ID No.":"23AIML026",
+        "Name":"TWISHA DIPAKKUMAR KAMANI",
+        "1st Sem SGPA":7.11,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":6.5,
+        "2nd Sem Backlogs":1,
+        "1st Year CGPA":6.78
+    },
+    {
+        "Sr.no":26,
+        "ID No.":"23AIML027",
+        "Name":"KHARE YASH PARESH",
+        "1st Sem SGPA":9.61,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.45,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.98
+    },
+    {
+        "Sr.no":27,
+        "ID No.":"23AIML028",
+        "Name":"DEVANSH KHATRI",
+        "1st Sem SGPA":8.39,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.5,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.9
+    },
+    {
+        "Sr.no":28,
+        "ID No.":"23AIML030",
+        "Name":"KUKADIYA SANSKRUTI BHARATBHAI",
+        "1st Sem SGPA":7.61,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.82,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.73
+    },
+    {
+        "Sr.no":29,
+        "ID No.":"23AIML031",
+        "Name":"KUNJADIYA KRISH DILIPKUMAR",
+        "1st Sem SGPA":8.94,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.14,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.5
+    },
+    {
+        "Sr.no":30,
+        "ID No.":"23AIML032",
+        "Name":"KYADA JULIBEN YOGESHBHAI",
+        "1st Sem SGPA":8.56,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.64,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.6
+    },
+    {
+        "Sr.no":31,
+        "ID No.":"23AIML033",
+        "Name":"LACHHWANI JUGAL MANOJKUMAR",
+        "1st Sem SGPA":9.0,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.18,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.0
+    },
+    {
+        "Sr.no":32,
+        "ID No.":"23AIML034",
+        "Name":"LAKHANI PURV BHUPATBHAI",
+        "1st Sem SGPA":8.44,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.41,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.88
+    },
+    {
+        "Sr.no":33,
+        "ID No.":"23AIML035",
+        "Name":"MANGUKIYA DHARMIK ASHVINBHAI",
+        "1st Sem SGPA":8.11,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.41,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.28
+    },
+    {
+        "Sr.no":34,
+        "ID No.":"23AIML036",
+        "Name":"MEHTA ARYA ASHISHBHAI",
+        "1st Sem SGPA":7.78,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.23,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.48
+    },
+    {
+        "Sr.no":35,
+        "ID No.":"23AIML037",
+        "Name":"MODI KASHAK SARJU",
+        "1st Sem SGPA":9.39,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":9.14,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":9.25
+    },
+    {
+        "Sr.no":36,
+        "ID No.":"23AIML038",
+        "Name":"DHWANI NAVADIA",
+        "1st Sem SGPA":7.67,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.27,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.45
+    },
+    {
+        "Sr.no":37,
+        "ID No.":"23AIML039",
+        "Name":"PADMANI RONI ASHVINBHAI",
+        "1st Sem SGPA":9.0,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.64,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.8
+    },
+    {
+        "Sr.no":38,
+        "ID No.":"23AIML040",
+        "Name":"PANARA PARTH MANSUKHBHAI",
+        "1st Sem SGPA":9.44,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.41,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.88
+    },
+    {
+        "Sr.no":39,
+        "ID No.":"23AIML041",
+        "Name":"PANCHAL DEVANSH KETAN",
+        "1st Sem SGPA":9.11,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.82,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.95
+    },
+    {
+        "Sr.no":40,
+        "ID No.":"23AIML042",
+        "Name":"PANCHAL VEDANT MUKUNDBHAI",
+        "1st Sem SGPA":8.56,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.41,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.48
+    },
+    {
+        "Sr.no":41,
+        "ID No.":"23AIML043",
+        "Name":"PANSURIYA NENCYBEN ASHVINBHAI",
+        "1st Sem SGPA":8.89,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":9.09,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":9.0
+    },
+    {
+        "Sr.no":42,
+        "ID No.":"23AIML044",
+        "Name":"PARMAR MESHWA MAHENDRAKUMAR",
+        "1st Sem SGPA":6.61,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.55,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.13
+    },
+    {
+        "Sr.no":43,
+        "ID No.":"23AIML045",
+        "Name":"PARMAR PUNITSINH JAGDISHSINH",
+        "1st Sem SGPA":7.67,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":6.45,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.0
+    },
+    {
+        "Sr.no":44,
+        "ID No.":"23AIML046",
+        "Name":"ADITYA SAMEERKUMAR PATEL",
+        "1st Sem SGPA":7.0,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":4.59,
+        "2nd Sem Backlogs":3,
+        "1st Year CGPA":5.68
+    },
+    {
+        "Sr.no":45,
+        "ID No.":"23AIML047",
+        "Name":"PATEL DEV DHARMESH",
+        "1st Sem SGPA":9.44,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.64,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":9.0
+    },
+    {
+        "Sr.no":46,
+        "ID No.":"23AIML048",
+        "Name":"PATEL DHARA SAMIRBHAI",
+        "1st Sem SGPA":7.72,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":6.77,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.2
+    },
+    {
+        "Sr.no":47,
+        "ID No.":"23AIML049",
+        "Name":"PATEL HARI VIJAYKUMAR",
+        "1st Sem SGPA":9.83,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.86,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":9.3
+    },
+    {
+        "Sr.no":48,
+        "ID No.":"23AIML051",
+        "Name":"PATEL HET PIYUSHKUMAR",
+        "1st Sem SGPA":9.72,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.5,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":9.05
+    },
+    {
+        "Sr.no":49,
+        "ID No.":"23AIML052",
+        "Name":"PATEL HRIDAY MITULKUMAR",
+        "1st Sem SGPA":8.22,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.55,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.85
+    },
+    {
+        "Sr.no":50,
+        "ID No.":"23AIML053",
+        "Name":"PATEL KARAN RUMIN",
+        "1st Sem SGPA":8.56,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":0.82,
+        "2nd Sem Backlogs":9,
+        "1st Year CGPA":4.3
+    },
+    {
+        "Sr.no":51,
+        "ID No.":"23AIML054",
+        "Name":"PATEL KRISHNA PRADIPBHAI",
+        "1st Sem SGPA":7.17,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":5.86,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":6.45
+    },
+    {
+        "Sr.no":52,
+        "ID No.":"23AIML055",
+        "Name":"PATEL PATH RITESHKUMAR",
+        "1st Sem SGPA":9.17,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.5,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.8
+    },
+    {
+        "Sr.no":53,
+        "ID No.":"23AIML056",
+        "Name":"PRAJAPATI KAVYA JITENDRAKUMAR",
+        "1st Sem SGPA":9.0,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.32,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.63
+    },
+    {
+        "Sr.no":54,
+        "ID No.":"23AIML057",
+        "Name":"PUJA NILESH RACHCHH",
+        "1st Sem SGPA":10.0,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":9.14,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":9.53
+    },
+    {
+        "Sr.no":55,
+        "ID No.":"23AIML058",
+        "Name":"RABARI HETVI DASHRATHBHAI",
+        "1st Sem SGPA":9.44,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.18,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.75
+    },
+    {
+        "Sr.no":56,
+        "ID No.":"23AIML059",
+        "Name":"TITHI PANKAJ RADIA",
+        "1st Sem SGPA":9.56,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":9.14,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":9.33
+    },
+    {
+        "Sr.no":57,
+        "ID No.":"23AIML060",
+        "Name":"RAKHASIYA BRIJESH DILIPBHAI",
+        "1st Sem SGPA":9.61,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":9.0,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":9.28
+    },
+    {
+        "Sr.no":58,
+        "ID No.":"23AIML061",
+        "Name":"SAPARA NEMISH CHIMANBHAI",
+        "1st Sem SGPA":7.67,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.09,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.35
+    },
+    {
+        "Sr.no":59,
+        "ID No.":"23AIML062",
+        "Name":"SATANI SMIT HITESHBHAI",
+        "1st Sem SGPA":9.72,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":9.45,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":9.58
+    },
+    {
+        "Sr.no":60,
+        "ID No.":"23AIML063",
+        "Name":"SAVALIYA KAUSHAL JAYESHBHAI",
+        "1st Sem SGPA":9.89,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":9.36,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":9.6
+    },
+    {
+        "Sr.no":61,
+        "ID No.":"23AIML064",
+        "Name":"SHAH AARYA MEHUL",
+        "1st Sem SGPA":9.39,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":9.18,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":9.28
+    },
+    {
+        "Sr.no":62,
+        "ID No.":"23AIML065",
+        "Name":"SHAH DEVAL NAIMESHKUMAR",
+        "1st Sem SGPA":8.33,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":6.77,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.48
+    },
+    {
+        "Sr.no":63,
+        "ID No.":"23AIML066",
+        "Name":"SHELADIYA DEVANSHU SHAILESHBHAI",
+        "1st Sem SGPA":8.39,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.32,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.8
+    },
+    {
+        "Sr.no":64,
+        "ID No.":"23AIML067",
+        "Name":"SHELADIYA MITANG RAJESHBHAI",
+        "1st Sem SGPA":8.0,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.23,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.58
+    },
+    {
+        "Sr.no":65,
+        "ID No.":"23AIML068",
+        "Name":"SORTHIYA YASHVI NILESHBHAI",
+        "1st Sem SGPA":8.33,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":6.73,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.45
+    },
+    {
+        "Sr.no":66,
+        "ID No.":"23AIML069",
+        "Name":"TANK UNNATI PANKAJBHAI",
+        "1st Sem SGPA":8.28,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.64,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":7.93
+    },
+    {
+        "Sr.no":67,
+        "ID No.":"23AIML070",
+        "Name":"THAKOR SIDDHRAJ ANILKUMAR",
+        "1st Sem SGPA":8.39,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":9.0,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.73
+    },
+    {
+        "Sr.no":68,
+        "ID No.":"23AIML071",
+        "Name":"THUMMAR YUG BHARATBHAI",
+        "1st Sem SGPA":9.33,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":9.32,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":9.33
+    },
+    {
+        "Sr.no":69,
+        "ID No.":"23AIML072",
+        "Name":"TRIVEDI ANSHU VIJAY",
+        "1st Sem SGPA":9.44,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.09,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.7
+    },
+    {
+        "Sr.no":70,
+        "ID No.":"23AIML073",
+        "Name":"VAGHANI KRISH JITUBHAI",
+        "1st Sem SGPA":7.78,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.23,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.03
+    },
+    {
+        "Sr.no":71,
+        "ID No.":"23AIML074",
+        "Name":"VANSH DILIPKUMAR MEHTA",
+        "1st Sem SGPA":8.83,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":7.86,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.3
+    },
+    {
+        "Sr.no":72,
+        "ID No.":"23AIML075",
+        "Name":"VARSADIYA PRITKUMAR SHAILESHBHAI",
+        "1st Sem SGPA":8.94,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.73,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.83
+    },
+    {
+        "Sr.no":73,
+        "ID No.":"23AIML076",
+        "Name":"VIRANI DAX JAYSUKHBHAI",
+        "1st Sem SGPA":9.06,
+        "1st Sem Backlogs":0,
+        "2ns SemSGPA":8.32,
+        "2nd Sem Backlogs":0,
+        "1st Year CGPA":8.65
+    }
+]
